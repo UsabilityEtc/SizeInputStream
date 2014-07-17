@@ -1,7 +1,7 @@
 Size-Input-Stream
 =================
 
-An java.io.InputStream subclass that enables progress monitoring when the number of bytes to be read cannot be determined.
+A java.io.InputStream subclass that enables progress monitoring when the number of bytes to be read cannot be determined.
 
 About
 -----
